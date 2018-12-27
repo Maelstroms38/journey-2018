@@ -1,5 +1,5 @@
 ---
-title: 2018 - Wrapped!
+title: Introduction
 seoTitle: End of the year post.
 seoDescription: My journey in 2018.
 isFree: true

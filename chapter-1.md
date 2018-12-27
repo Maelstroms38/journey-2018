@@ -1,5 +1,5 @@
 ---
-title: 2018 - Tel Aviv
+title: Tel Aviv
 seoTitle: Teaching in Tel Aviv.
 seoDescription: My journey in 2018.
 isFree: true

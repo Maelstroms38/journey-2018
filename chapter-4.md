@@ -1,5 +1,5 @@
 ---
-title: 2018 - London
+title: London
 seoTitle: A Taste of London.
 seoDescription: My journey in 2018.
 isFree: true

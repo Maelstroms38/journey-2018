@@ -1,5 +1,5 @@
 ---
-title: 2018 - Africa
+title: Africa
 seoTitle: Africa's digital migration.
 seoDescription: My journey in 2018.
 isFree: true

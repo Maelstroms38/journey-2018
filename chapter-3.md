@@ -1,5 +1,5 @@
 ---
-title: 2018 - Sailing
+title: Sailing
 seoTitle: Sailing in a storm.
 seoDescription: My journey in 2018.
 isFree: true
