@@ -6,9 +6,9 @@ isFree: true
 
 ---
 
-## The Perfect Storm
-
 ![Boston Sailing](https://raw.github.com/maelstroms38/journey-2018/master/assets/sailing.jpg?raw=true "Boston Sailing")
+
+## The Perfect Storm
 
 Beginning in May, I started a five week sailing course. After signing up with Boston Sailing Center, the rest was a smooth ride. Or so I thought. The instructors would take groups of four out on Boston Harbor. They showed us how to raise sails, turn against the wind and dock the sailboat safely.
 
