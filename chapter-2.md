@@ -44,4 +44,7 @@ It was a warm welcome. Trust invited me to drink with the players in another tow
 
 To adapt is to pursue the idea of a better tomorrow. Even when the road ahead is unclear, one must move forward. This innate drive is a primal source of motivation. It guides one from the shadow of doubt. 
 
-If you would like to read more about my adventure in Africa, [click here](https://medium.com/@michaelstromer/wakanda-forever-28cc2116aeb2).
+If you would like to read more about my adventure in Africa, [click here](https://medium.com/@michaelstromer/wakanda-forever-28cc2116aeb2)
+
+
+[Chapter Three](https://codebook.now.sh/books/my-journey-in-2018/sailing)

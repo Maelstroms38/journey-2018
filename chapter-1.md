@@ -27,3 +27,5 @@ The reality is that anyone who wants to learn coding can get started online for 
 My attitude towards learning is a hands-on approach. This means learning by doing, with plenty of room for trial and error. Getting started with programming was a challenge. Most of my first-time app store submissions were rejected, and it was discouraging. 
 
 Even after these failures, I was keen on building apps. I kept thinking of all the subway riders, with their eyes glued to their phones. With the right app, I could create a positive impact. So I continued making apps on the road. 
+
+[Chapter Two](https://codebook.now.sh/books/my-journey-in-2018/africa)

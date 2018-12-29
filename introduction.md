@@ -30,3 +30,5 @@ I learned to sail in Boston harbor over the summer.
 As a mobile developer, learning on the road becomes second nature.
 
 Let's get started.
+
+[Chapter One](https://codebook.now.sh/books/my-journey-in-2018/tel-aviv)

@@ -52,4 +52,6 @@ This was one of the nuances of travel. Getting over a language barrier, even if 
 
 The next day, I toured the Jameson distillery and Guinness storehouse. It was like Disneyland, but for alcoholics. I sipped a Guinness pint and listened to an Irish band playing, "House of the Rising Sun."
 
-Most of this trip was fraught with uncertainty. Being a solo traveler has it's advantages, but it also forces one to adapt. Chance encounters with strangers can become positive experiences. Once loneliness fades, solo travel becomes an adventure.  
+Most of this trip was fraught with uncertainty. Being a solo traveler has it's advantages, but it also forces one to adapt. Chance encounters with strangers can become positive experiences. Once loneliness fades, solo travel becomes an adventure. 
+
+[Chapter Five](https://codebook.now.sh/books/my-journey-in-2018/southern-comfort) 

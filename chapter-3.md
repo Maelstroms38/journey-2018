@@ -43,3 +43,5 @@ The injury gave me a break from being active. No gym memberships and no race to 
 In writing, I created a different story about my injury. In this story, I would become a world traveler, and see the world with a boot on. One day I would walk and run again.
 
 Special thanks to those who visited me during this time!
+
+[Chapter Four](https://codebook.now.sh/books/my-journey-in-2018/solo-travel-in-the-uk)
