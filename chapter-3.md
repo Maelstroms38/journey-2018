@@ -44,4 +44,4 @@ In writing, I created a different story about my injury. In this story, I would 
 
 Special thanks to those who visited me during this time!
 
-[Chapter Four](https://codebook.now.sh/books/my-journey-in-2018/solo-travel-in-the-uk)
+### [Chapter Four](https://michaelstromer.nyc/books/my-journey-in-2018/solo-travel-in-the-uk)

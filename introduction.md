@@ -12,23 +12,14 @@ isFree: true
 
 ## On the Road
 
-This year was one long road trip. Here are four places I visited:
+This year was one long road trip. Here are the places I visited:
 
-- Tel Aviv, Israel 
-- Zimbabwe, Africa 
-- London, UK 
-- Austin, Texas
+### - [Tel Aviv, Israel](https://michaelstromer.nyc/books/my-journey-in-2018/tel-aviv)
+### - [Boston, Massachussets](https://michaelstromer.nyc/books/my-journey-in-2018/sailing)
+### - [Zimbabwe, Africa](https://michaelstromer.nyc/books/my-journey-in-2018/africa)  
+### - [London, UK](https://michaelstromer.nyc/books/my-journey-in-2018/solo-travel-in-the-uk)
+### - [Austin, Texas](https://michaelstromer.nyc/books/my-journey-in-2018/southern-comfort) 
 
 Each of these cities offers a unique story. 
 
-## Boston Sailing
-
-I learned to sail in Boston harbor over the summer.
-
-## Action, Adventure, Apps
-
-As a mobile developer, learning on the road becomes second nature.
-
-Let's get started.
-
-[Chapter One](https://codebook.now.sh/books/my-journey-in-2018/tel-aviv)
+Let's get started! Follow any of the links above.

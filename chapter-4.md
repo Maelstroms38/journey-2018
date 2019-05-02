@@ -54,4 +54,4 @@ The next day, I toured the Jameson distillery and Guinness storehouse. It was li
 
 Most of this trip was fraught with uncertainty. Being a solo traveler has it's advantages, but it also forces one to adapt. Chance encounters with strangers can become positive experiences. Once loneliness fades, solo travel becomes an adventure. 
 
-[Chapter Five](https://codebook.now.sh/books/my-journey-in-2018/southern-comfort) 
+### [Chapter Five](https://michaelstromer.nyc/books/my-journey-in-2018/southern-comfort) 

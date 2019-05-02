@@ -26,3 +26,5 @@ At the show, Moon Taxi opened with a banger. After their setlist, we nearly left
 Overall it was sweet to see the south without a tight schedule. Austin is easy to navigate by car, bike or scooter. If you happen to enjoy scooting around, you got options. The city is littered with scooters, which makes for a fun ride.
 
 Next year, my plans are to see the west coast. Until then, safe travels and happy new year!
+
+### Continue to [Home](https://michaelstromer.nyc/books/my-journey-in-2018/introduction)

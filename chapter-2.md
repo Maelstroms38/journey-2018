@@ -47,4 +47,4 @@ To adapt is to pursue the idea of a better tomorrow. Even when the road ahead is
 If you would like to read more about my adventure in Africa, [click here](https://medium.com/@michaelstromer/wakanda-forever-28cc2116aeb2)
 
 
-[Chapter Three](https://codebook.now.sh/books/my-journey-in-2018/sailing)
+### [Chapter Three](https://michaelstromer.nyc/books/my-journey-in-2018/sailing)

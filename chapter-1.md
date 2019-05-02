@@ -28,4 +28,4 @@ My attitude towards learning is a hands-on approach. This means learning by doin
 
 Even after these failures, I was keen on building apps. I kept thinking of all the subway riders, with their eyes glued to their phones. With the right app, I could create a positive impact. So I continued making apps on the road. 
 
-[Chapter Two](https://codebook.now.sh/books/my-journey-in-2018/africa)
+### [Chapter Two](https://michaelstromer.nyc/books/my-journey-in-2018/africa)
